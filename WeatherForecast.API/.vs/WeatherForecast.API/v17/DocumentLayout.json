@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\projects\\WeatherForecastService\\WeatherForecast.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE774BFD-F9F6-4A23-ACB7-6B5498ED07B6}|..\\WeatherForecast.Service\\WeatherForecast.Service.csproj|c:\\projects\\weatherforecastservice\\weatherforecast.service\\weatherforecastservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F44D12-4DB6-405E-99DD-E3F7113618EB}|..\\WeatherForecast.Models\\WeatherForecast.Models.csproj|c:\\projects\\weatherforecastservice\\weatherforecast.models\\weathervisualcrossing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F44D12-4DB6-405E-99DD-E3F7113618EB}|..\\WeatherForecast.Models\\WeatherForecast.Models.csproj|c:\\projects\\weatherforecastservice\\weatherforecast.models\\apiweatherapiresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F44D12-4DB6-405E-99DD-E3F7113618EB}|..\\WeatherForecast.Models\\WeatherForecast.Models.csproj|c:\\projects\\weatherforecastservice\\weatherforecast.models\\apiopenweathermapresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F44D12-4DB6-405E-99DD-E3F7113618EB}|..\\WeatherForecast.Models\\WeatherForecast.Models.csproj|c:\\projects\\weatherforecastservice\\weatherforecast.models\\iweatherforecastmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE774BFD-F9F6-4A23-ACB7-6B5498ED07B6}|..\\WeatherForecast.Service\\WeatherForecast.Service.csproj|c:\\projects\\weatherforecastservice\\weatherforecast.service\\iweatherforecastservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53C144E-64AA-4E29-BD9D-DEAD23009D89}|WeatherForecast.API.csproj|c:\\projects\\weatherforecastservice\\weatherforecast.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C53C144E-64AA-4E29-BD9D-DEAD23009D89}|WeatherForecast.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherVisualcrossing.cs",
+              "DocumentMoniker": "C:\\projects\\WeatherForecastService\\WeatherForecast.Models\\WeatherVisualcrossing.cs",
+              "RelativeDocumentMoniker": "..\\WeatherForecast.Models\\WeatherVisualcrossing.cs",
+              "ToolTip": "C:\\projects\\WeatherForecastService\\WeatherForecast.Models\\WeatherVisualcrossing.cs",
+              "RelativeToolTip": "..\\WeatherForecast.Models\\WeatherVisualcrossing.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAiwHAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T19:09:09.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApiOpenWeathermapResult.cs",
+              "DocumentMoniker": "C:\\projects\\WeatherForecastService\\WeatherForecast.Models\\ApiOpenWeathermapResult.cs",
+              "RelativeDocumentMoniker": "..\\WeatherForecast.Models\\ApiOpenWeathermapResult.cs",
+              "ToolTip": "C:\\projects\\WeatherForecastService\\WeatherForecast.Models\\ApiOpenWeathermapResult.cs",
+              "RelativeToolTip": "..\\WeatherForecast.Models\\ApiOpenWeathermapResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T18:15:55.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiWeatherapiResult.cs",
+              "DocumentMoniker": "C:\\projects\\WeatherForecastService\\WeatherForecast.Models\\ApiWeatherapiResult.cs",
+              "RelativeDocumentMoniker": "..\\WeatherForecast.Models\\ApiWeatherapiResult.cs",
+              "ToolTip": "C:\\projects\\WeatherForecastService\\WeatherForecast.Models\\ApiWeatherapiResult.cs",
+              "RelativeToolTip": "..\\WeatherForecast.Models\\ApiWeatherapiResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T18:07:34.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IWeatherForecastModel.cs",
+              "DocumentMoniker": "C:\\projects\\WeatherForecastService\\WeatherForecast.Models\\IWeatherForecastModel.cs",
+              "RelativeDocumentMoniker": "..\\WeatherForecast.Models\\IWeatherForecastModel.cs",
+              "ToolTip": "C:\\projects\\WeatherForecastService\\WeatherForecast.Models\\IWeatherForecastModel.cs",
+              "RelativeToolTip": "..\\WeatherForecast.Models\\IWeatherForecastModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T18:04:11.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\projects\\WeatherForecastService\\WeatherForecast.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\projects\\WeatherForecastService\\WeatherForecast.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T17:34:18.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IWeatherForecastService.cs",
+              "DocumentMoniker": "C:\\projects\\WeatherForecastService\\WeatherForecast.Service\\IWeatherForecastService.cs",
+              "RelativeDocumentMoniker": "..\\WeatherForecast.Service\\IWeatherForecastService.cs",
+              "ToolTip": "C:\\projects\\WeatherForecastService\\WeatherForecast.Service\\IWeatherForecastService.cs",
+              "RelativeToolTip": "..\\WeatherForecast.Service\\IWeatherForecastService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T17:33:43.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastService.cs",
+              "DocumentMoniker": "C:\\projects\\WeatherForecastService\\WeatherForecast.Service\\WeatherForecastService.cs",
+              "RelativeDocumentMoniker": "..\\WeatherForecast.Service\\WeatherForecastService.cs",
+              "ToolTip": "C:\\projects\\WeatherForecastService\\WeatherForecast.Service\\WeatherForecastService.cs",
+              "RelativeToolTip": "..\\WeatherForecast.Service\\WeatherForecastService.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwEAAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T17:30:39.431Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

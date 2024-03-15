@@ -1,0 +1,5 @@
+C:\projects\WeatherForecastService\WeatherForecast.Service\bin\Release\net8.0\publish\WeatherForecast.Service.dll
+C:\projects\WeatherForecastService\WeatherForecast.Service\bin\Release\net8.0\publish\WeatherForecast.Service.deps.json
+C:\projects\WeatherForecastService\WeatherForecast.Service\bin\Release\net8.0\publish\WeatherForecast.Service.pdb
+C:\projects\WeatherForecastService\WeatherForecast.Service\bin\Release\net8.0\publish\WeatherForecast.Models.dll
+C:\projects\WeatherForecastService\WeatherForecast.Service\bin\Release\net8.0\publish\WeatherForecast.Models.pdb

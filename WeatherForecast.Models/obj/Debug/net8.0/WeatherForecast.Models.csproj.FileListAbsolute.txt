@@ -1,0 +1,12 @@
+C:\projects\WeatherForecastService\WeatherForecast.Models\bin\Debug\net8.0\WeatherForecast.Models.deps.json
+C:\projects\WeatherForecastService\WeatherForecast.Models\bin\Debug\net8.0\WeatherForecast.Models.dll
+C:\projects\WeatherForecastService\WeatherForecast.Models\bin\Debug\net8.0\WeatherForecast.Models.pdb
+C:\projects\WeatherForecastService\WeatherForecast.Models\obj\Debug\net8.0\WeatherForecast.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\WeatherForecastService\WeatherForecast.Models\obj\Debug\net8.0\WeatherForecast.Models.AssemblyInfoInputs.cache
+C:\projects\WeatherForecastService\WeatherForecast.Models\obj\Debug\net8.0\WeatherForecast.Models.AssemblyInfo.cs
+C:\projects\WeatherForecastService\WeatherForecast.Models\obj\Debug\net8.0\WeatherForecast.Models.csproj.CoreCompileInputs.cache
+C:\projects\WeatherForecastService\WeatherForecast.Models\obj\Debug\net8.0\WeatherForecast.Models.sourcelink.json
+C:\projects\WeatherForecastService\WeatherForecast.Models\obj\Debug\net8.0\WeatherForecast.Models.dll
+C:\projects\WeatherForecastService\WeatherForecast.Models\obj\Debug\net8.0\refint\WeatherForecast.Models.dll
+C:\projects\WeatherForecastService\WeatherForecast.Models\obj\Debug\net8.0\WeatherForecast.Models.pdb
+C:\projects\WeatherForecastService\WeatherForecast.Models\obj\Debug\net8.0\ref\WeatherForecast.Models.dll

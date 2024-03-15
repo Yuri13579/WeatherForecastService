@@ -1,0 +1,15 @@
+C:\projects\WeatherForecastService\WeatherForecast.API\bin\Release\net8.0\publish\WeatherForecast.API.exe
+C:\projects\WeatherForecastService\WeatherForecast.API\bin\Release\net8.0\publish\appsettings.Development.json
+C:\projects\WeatherForecastService\WeatherForecast.API\bin\Release\net8.0\publish\appsettings.json
+C:\projects\WeatherForecastService\WeatherForecast.API\bin\Release\net8.0\publish\WeatherForecast.API.dll
+C:\projects\WeatherForecastService\WeatherForecast.API\bin\Release\net8.0\publish\WeatherForecast.API.deps.json
+C:\projects\WeatherForecastService\WeatherForecast.API\bin\Release\net8.0\publish\WeatherForecast.API.runtimeconfig.json
+C:\projects\WeatherForecastService\WeatherForecast.API\bin\Release\net8.0\publish\WeatherForecast.API.pdb
+C:\projects\WeatherForecastService\WeatherForecast.API\bin\Release\net8.0\publish\Microsoft.OpenApi.dll
+C:\projects\WeatherForecastService\WeatherForecast.API\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\projects\WeatherForecastService\WeatherForecast.API\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\projects\WeatherForecastService\WeatherForecast.API\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\projects\WeatherForecastService\WeatherForecast.API\bin\Release\net8.0\publish\WeatherForecast.Models.dll
+C:\projects\WeatherForecastService\WeatherForecast.API\bin\Release\net8.0\publish\WeatherForecast.Service.dll
+C:\projects\WeatherForecastService\WeatherForecast.API\bin\Release\net8.0\publish\WeatherForecast.Service.pdb
+C:\projects\WeatherForecastService\WeatherForecast.API\bin\Release\net8.0\publish\WeatherForecast.Models.pdb

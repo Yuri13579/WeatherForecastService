@@ -1,0 +1,16 @@
+C:\projects\WeatherForecastService\WeatherForecast.Service\obj\Debug\net8.0\WeatherForecast.Service.csproj.AssemblyReference.cache
+C:\projects\WeatherForecastService\WeatherForecast.Service\obj\Debug\net8.0\WeatherForecast.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\WeatherForecastService\WeatherForecast.Service\obj\Debug\net8.0\WeatherForecast.Service.AssemblyInfoInputs.cache
+C:\projects\WeatherForecastService\WeatherForecast.Service\obj\Debug\net8.0\WeatherForecast.Service.AssemblyInfo.cs
+C:\projects\WeatherForecastService\WeatherForecast.Service\obj\Debug\net8.0\WeatherForecast.Service.csproj.CoreCompileInputs.cache
+C:\projects\WeatherForecastService\WeatherForecast.Service\obj\Debug\net8.0\WeatherForecast.Service.sourcelink.json
+C:\projects\WeatherForecastService\WeatherForecast.Service\bin\Debug\net8.0\WeatherForecast.Service.deps.json
+C:\projects\WeatherForecastService\WeatherForecast.Service\bin\Debug\net8.0\WeatherForecast.Service.dll
+C:\projects\WeatherForecastService\WeatherForecast.Service\bin\Debug\net8.0\WeatherForecast.Service.pdb
+C:\projects\WeatherForecastService\WeatherForecast.Service\bin\Debug\net8.0\WeatherForecast.Models.dll
+C:\projects\WeatherForecastService\WeatherForecast.Service\bin\Debug\net8.0\WeatherForecast.Models.pdb
+C:\projects\WeatherForecastService\WeatherForecast.Service\obj\Debug\net8.0\WeatherF.41AF6EB6.Up2Date
+C:\projects\WeatherForecastService\WeatherForecast.Service\obj\Debug\net8.0\WeatherForecast.Service.dll
+C:\projects\WeatherForecastService\WeatherForecast.Service\obj\Debug\net8.0\refint\WeatherForecast.Service.dll
+C:\projects\WeatherForecastService\WeatherForecast.Service\obj\Debug\net8.0\WeatherForecast.Service.pdb
+C:\projects\WeatherForecastService\WeatherForecast.Service\obj\Debug\net8.0\ref\WeatherForecast.Service.dll
